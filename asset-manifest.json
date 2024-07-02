@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/turkiye-austria-preview/static/css/main.a5648260.css",
+    "main.js": "/turkiye-austria-preview/static/js/main.759c930b.js",
+    "index.html": "/turkiye-austria-preview/index.html",
+    "main.a5648260.css.map": "/turkiye-austria-preview/static/css/main.a5648260.css.map",
+    "main.759c930b.js.map": "/turkiye-austria-preview/static/js/main.759c930b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5648260.css",
+    "static/js/main.759c930b.js"
+  ]
+}
